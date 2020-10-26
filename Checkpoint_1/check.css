@@ -1,0 +1,33 @@
+.navbar-brand img {
+    width: 50px;
+    height: 40px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: black;
+}
+
+.text {
+    font-size: 18px;
+}
+
+.prva {
+    background-color: slategrey;
+}
+
+.program {
+    color: orange;
+    text-shadow: 1px 1px 2px #888;
+}
+
+.box-shadow {
+    padding: 10px;
+    border: 1px solid #999;
+    box-shadow: 0px 0px 5px #888;
+    border-radius: 5px;
+}
+
+.nadpis {
+    color: orange;
+
+}
